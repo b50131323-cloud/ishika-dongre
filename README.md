@@ -1,2 +1,1 @@
-# ishika-dogre
-x.queen
+# ishika-donagre
